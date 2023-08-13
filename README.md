@@ -1,2 +1,2 @@
 # RetoDibujo
-![](C:\Users\dorad\Downloads\RetoDibujo\DibujoFinal.png) 
+![Imagen](C:\Users\dorad\Downloads\RetoDibujo\DibujoFinal.png) 
